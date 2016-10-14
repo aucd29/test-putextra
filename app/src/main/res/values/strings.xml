@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test-putextra</string>
+
+    <string-array name="data_list">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+    </string-array>
+</resources>
